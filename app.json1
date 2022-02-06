@@ -1,0 +1,8 @@
+{
+  "name": "Alphabot",
+  "version": "0.14.1",
+  "description": "WhatsApp bot",
+  "zeeone": "zeeone.js",
+  "directories": {
+    "lib": "lib"
+  }
