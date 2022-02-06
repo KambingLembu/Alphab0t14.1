@@ -37,7 +37,7 @@
 
 ## `CHANGE DYNO`
 
-Off in web nyay
+Off in web nya
 
 ----------
 
